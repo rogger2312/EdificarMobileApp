@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EdifikarMobileApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="item_itemback">itemBack</string>
+    <string name="item_item">Item</string>
+    <string name="hint_buscar_en_proyectos">Buscar en proyectos</string>
+    <string name="hint_buscar_en_propiedades">Buscar en propiedades</string>
+    <string name="hint_buscar_en_servicios">Buscar en servicios</string>
+</resources>
