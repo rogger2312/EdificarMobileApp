@@ -8,4 +8,7 @@
     <string name="hint_buscar_en_proyectos">Buscar en proyectos</string>
     <string name="hint_buscar_en_propiedades">Buscar en propiedades</string>
     <string name="hint_buscar_en_servicios">Buscar en servicios</string>
+    <string name="title_proyectos">Proyectos</string>
+    <string name="title_inmuebles">Inmuebles</string>
+    <string name="title_servicios">Servicios</string>
 </resources>
