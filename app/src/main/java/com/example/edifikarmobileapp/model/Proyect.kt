@@ -1,9 +1,11 @@
 package com.example.edifikarmobileapp.model
 
+import com.google.gson.annotations.SerializedName
+
 class Proyect (
-    val photo :String,
-    val logo : String,
-    val name : String,
-    val ubicacion : String
+
+        @SerializedName("results")
+        var results: List<ListaProyecto>
+
 )
 
